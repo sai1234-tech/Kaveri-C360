@@ -1,0 +1,12 @@
+/* .con{
+    top: 168px;
+left: 400px;
+width: 1120px;
+height: 869px;
+} */
+
+input[type=text] {
+    border:2px solid blue;
+    margin-top: 10px;
+    border-radius: 5px;
+}

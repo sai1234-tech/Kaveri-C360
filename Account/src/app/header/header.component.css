@@ -1,0 +1,21 @@
+.button{
+    position:relative;
+ left: 650px;
+ border-radius: 5px;
+ /* height: 36px; */
+ background: #0A429B 0% 0% no-repeat padding-box;
+ box-shadow: 0px 3px 6px #00000029;
+ border-radius: 5px;
+
+} 
+#button1{
+    position:relative;
+    left:700px;
+    color: #0A429B;
+
+     text-align: left;
+    /* margin-left: 500px; */
+    bottom:3px;
+    top:1px;
+    /* height:36px; */
+}
